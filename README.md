@@ -15,3 +15,7 @@ Lab #3 - 9th Feb, 2020 <br>
   <li> qn9 - Creating function to calculate the sum and difference of two numbers entered by user</li>
   <li> qn10 - Implementation of class to print the sum of two numbers</li>
 </p>
+Lab #4 - 16th Feb, 2020 <br>
+<p class="tab">
+  <li>Dictionary & Tuple</li>
+</p>
